@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small projects.<br>🌱 I’m currently learning Web Development.<br>💬 Chat related to computers is eagerly accepted.<br>⚡ Fun fact: Do or Die :)
+🔭 I’m currently working on small projects.<br>🌱 I’m currently learning Web Development.<br>💬 Chat related to computers is eagerly accepted.<br>⚡ Fun Fact: Do or Die :)
 
 
 ## 🌐 Socials:
